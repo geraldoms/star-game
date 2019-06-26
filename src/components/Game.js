@@ -73,7 +73,7 @@ const StarGame = props => {
   return (
     <div className="game">
       <div className="help">
-        Pick 1 or more numbers that matches the number of stars
+        Pick 1 or more numbers that match the number of stars
       </div>
       <div className="body">
         <div className="left">
